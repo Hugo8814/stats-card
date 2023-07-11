@@ -1,5 +1,8 @@
+
+$bp_small:35em;
 $bp-large: 62.4375em;
 /////sizes init
+/// 
 
 *,
 *::before,
@@ -122,8 +125,8 @@ html {
     @media only screen and (max-width: $bp-large) {
       border-radius: 10px 10px 0px 0px;
       background-image: linear-gradient(
-          hsla(277, 93%, 39%, 0.5),
-          hsla(277, 86%, 31%, 0.5)
+          hsla(277, 93%, 39%, 0.54),
+          hsla(277, 86%, 31%, 0.54)
         ),
         url(../images/image-header-mobile.jpg);
       background-size: cover;
