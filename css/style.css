@@ -75,7 +75,7 @@ html {
         text-align: center;
         line-height: 1.7; } }
     .card__side-text-1 {
-      margin-right: 4rem;
+      margin-right: 3.9rem;
       display: flex;
       flex-direction: column;
       color: rgba(255, 255, 255, 0.6); }
